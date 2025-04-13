@@ -1,0 +1,57 @@
+# Python compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+.env/
+venv/
+ENV/
+env/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+
+# Logs & reports
+logs/
+*.log
+reports/
+allure-results/
+allure-report/
+.env
+__pycache__/
+
+
+# Test artifacts
+screenshots/
+output/
+*.png
+*.jpeg
+*.jpg
+
+# Environment files
+.env
+.env.*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Pytest cache
+.pytest_cache/
+
+# Coverage reports
+htmlcov/
+coverage.xml
+*.cover
+.cache
+.tox/
+
+# Temporary files
+*.tmp
+*.bak
+*.old
+*.orig
